@@ -21,7 +21,7 @@ hi, i'm [Sidharth KP](https://Sidharthkp.me/), a passionate self-taught full sta
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://github.com/Sidharthkp/Profile/blob/main/Code.gif" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/Sidharthkp/SidharthKP/blob/main/Code.gif" width="500" height="320" />
   
 - 💬 ask me about anything, i am happy to help;
 
