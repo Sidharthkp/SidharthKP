@@ -1,16 +1,4 @@
 ### hey there 
-<a href="https://www.instagram.com/sidharth_kp_/">
-  <img align="left" alt="Sidharth's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://discord.gg/Sidharth.K.P#2240">
-  <img align="left" alt="Sidharth's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/SIDHARTH200612">
-  <img align="left" alt="Sidharth KP| Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/sidharth-kp-964589192/">
-  <img align="left" alt="Sidharth's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Sidharthkp.SidharthKP)
 
